@@ -2,7 +2,7 @@
 
 Changes
 - [ ] Info - Add TailwindCSS, Create and Add a Link for Portfolio PDF and Add more infomation or personal description
-- [ ] Stacks - Add TailwindCSS
+- [ ] Stacks - Add TailwindCSS, Make 2 items in a row
 - [ ] Navbar - Github button to new tab 
 - [ ] Footer - Fix Links on Mobile
 
