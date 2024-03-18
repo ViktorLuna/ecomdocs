@@ -1,9 +1,9 @@
 Changes and Additional in Portfolio App
 
-- [] Info - Add TailwindCSS, Create and Add a Link for Portfolio PDF and Add more infomation or personal description
-- [] Stacks - Add TailwindCSS
-- [] Navbar - Github button to new tab 
-- [] Footer - Fix Links on Mobile
+- [ ] Info - Add TailwindCSS, Create and Add a Link for Portfolio PDF and Add more infomation or personal description
+- [ ] Stacks - Add TailwindCSS
+- [ ] Navbar - Github button to new tab 
+- [ ] Footer - Fix Links on Mobile
 
 ## Sample E-Commerce Infra
 
