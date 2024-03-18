@@ -1,9 +1,15 @@
 <h1>Changes and Additional in Portfolio App</h1>
 
+Changes
 - [ ] Info - Add TailwindCSS, Create and Add a Link for Portfolio PDF and Add more infomation or personal description
 - [ ] Stacks - Add TailwindCSS
 - [ ] Navbar - Github button to new tab 
 - [ ] Footer - Fix Links on Mobile
+
+Remake
+- [ ] Vuejs3/Vite
+- [ ] TailwindCSS
+- [ ] Dark Mode
 
 ## Sample E-Commerce Infra
 
